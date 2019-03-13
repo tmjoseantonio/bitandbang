@@ -1,4 +1,4 @@
-Personal Card for Sergio NS
+Personal Card for Jose Tovar
 
 Forked from https://github.com/bnb/bitandbang
 
